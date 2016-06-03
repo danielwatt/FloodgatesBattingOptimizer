@@ -1,0 +1,13 @@
+Alvin 0.556
+Jack 0.667
+Emily.Ly 0.750
+Emory 0.750
+Tyler 0.625
+Cindy 0.500
+Albert 0.750
+Sam 0.625
+Jessy 0.500
+Matthew 0.500
+Keith 0.500
+Kenneth 0.714
+Emily.Ma 0.429
